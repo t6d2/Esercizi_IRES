@@ -1,0 +1,11 @@
+C:\DATI\Corsi\C_Sharp\Corso IRES\Esercizi\CalculationAndString4\obj\Debug\netcoreapp2.0\CalculationAndString4.csprojResolveAssemblyReference.cache
+C:\DATI\Corsi\C_Sharp\Corso IRES\Esercizi\CalculationAndString4\obj\Debug\netcoreapp2.0\CalculationAndString4.csproj.CoreCompileInputs.cache
+C:\DATI\Corsi\C_Sharp\Corso IRES\Esercizi\CalculationAndString4\obj\Debug\netcoreapp2.0\CalculationAndString4.AssemblyInfoInputs.cache
+C:\DATI\Corsi\C_Sharp\Corso IRES\Esercizi\CalculationAndString4\obj\Debug\netcoreapp2.0\CalculationAndString4.AssemblyInfo.cs
+C:\DATI\Corsi\C_Sharp\Corso IRES\Esercizi\CalculationAndString4\bin\Debug\netcoreapp2.0\CalculationAndString4.deps.json
+C:\DATI\Corsi\C_Sharp\Corso IRES\Esercizi\CalculationAndString4\bin\Debug\netcoreapp2.0\CalculationAndString4.runtimeconfig.json
+C:\DATI\Corsi\C_Sharp\Corso IRES\Esercizi\CalculationAndString4\bin\Debug\netcoreapp2.0\CalculationAndString4.runtimeconfig.dev.json
+C:\DATI\Corsi\C_Sharp\Corso IRES\Esercizi\CalculationAndString4\bin\Debug\netcoreapp2.0\CalculationAndString4.dll
+C:\DATI\Corsi\C_Sharp\Corso IRES\Esercizi\CalculationAndString4\bin\Debug\netcoreapp2.0\CalculationAndString4.pdb
+C:\DATI\Corsi\C_Sharp\Corso IRES\Esercizi\CalculationAndString4\obj\Debug\netcoreapp2.0\CalculationAndString4.dll
+C:\DATI\Corsi\C_Sharp\Corso IRES\Esercizi\CalculationAndString4\obj\Debug\netcoreapp2.0\CalculationAndString4.pdb

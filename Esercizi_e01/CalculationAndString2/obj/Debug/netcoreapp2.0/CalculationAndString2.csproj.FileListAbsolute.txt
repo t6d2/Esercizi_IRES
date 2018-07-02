@@ -1,0 +1,11 @@
+C:\DATI\Corsi\C_Sharp\Corso IRES\Esercizi\CalculationAndString2\bin\Debug\netcoreapp2.0\CalculationAndString2.deps.json
+C:\DATI\Corsi\C_Sharp\Corso IRES\Esercizi\CalculationAndString2\bin\Debug\netcoreapp2.0\CalculationAndString2.runtimeconfig.json
+C:\DATI\Corsi\C_Sharp\Corso IRES\Esercizi\CalculationAndString2\bin\Debug\netcoreapp2.0\CalculationAndString2.runtimeconfig.dev.json
+C:\DATI\Corsi\C_Sharp\Corso IRES\Esercizi\CalculationAndString2\bin\Debug\netcoreapp2.0\CalculationAndString2.dll
+C:\DATI\Corsi\C_Sharp\Corso IRES\Esercizi\CalculationAndString2\bin\Debug\netcoreapp2.0\CalculationAndString2.pdb
+C:\DATI\Corsi\C_Sharp\Corso IRES\Esercizi\CalculationAndString2\obj\Debug\netcoreapp2.0\CalculationAndString2.csprojResolveAssemblyReference.cache
+C:\DATI\Corsi\C_Sharp\Corso IRES\Esercizi\CalculationAndString2\obj\Debug\netcoreapp2.0\CalculationAndString2.csproj.CoreCompileInputs.cache
+C:\DATI\Corsi\C_Sharp\Corso IRES\Esercizi\CalculationAndString2\obj\Debug\netcoreapp2.0\CalculationAndString2.AssemblyInfoInputs.cache
+C:\DATI\Corsi\C_Sharp\Corso IRES\Esercizi\CalculationAndString2\obj\Debug\netcoreapp2.0\CalculationAndString2.AssemblyInfo.cs
+C:\DATI\Corsi\C_Sharp\Corso IRES\Esercizi\CalculationAndString2\obj\Debug\netcoreapp2.0\CalculationAndString2.dll
+C:\DATI\Corsi\C_Sharp\Corso IRES\Esercizi\CalculationAndString2\obj\Debug\netcoreapp2.0\CalculationAndString2.pdb
